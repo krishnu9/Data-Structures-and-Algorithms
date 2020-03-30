@@ -1,0 +1,12 @@
+# c++
+*.obj
+*.gch
+*.a
+*.exe
+*.out
+*.app
+*.stackdump
+
+.vscode
+__pycache__
+bloomf.egg-info
