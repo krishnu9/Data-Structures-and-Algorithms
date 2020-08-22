@@ -2,6 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int dp[100001];
+// dp[i] = length of LIS ending at i.
 int LIS(int *a, int n) {
 
   for (int i = 0; i < n; i++) {
